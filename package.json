@@ -1,0 +1,21 @@
+{
+  "name": "sanity-algolia-pof",
+  "version": "1.0.0",
+  "description": "Sanity and Algolia integration, proof of concept.",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node fetch.js",
+    "search": "node search.js"
+  },
+  "keywords": [
+    "proof of concept",
+    "sanity",
+    "algolia"
+  ],
+  "author": "Norman Carcamo",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "@sanity/client": "^3.0.4",
+    "algoliasearch": "^4.12.1"
+  }
+}
