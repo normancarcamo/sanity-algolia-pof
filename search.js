@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const algoliaSearch = require('algoliasearch');
 
 const algolia = algoliaSearch(

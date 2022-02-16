@@ -16,6 +16,7 @@
   "license": "Apache 2.0",
   "dependencies": {
     "@sanity/client": "^3.0.4",
-    "algoliasearch": "^4.12.1"
+    "algoliasearch": "^4.12.1",
+    "dotenv": "^16.0.0"
   }
 }

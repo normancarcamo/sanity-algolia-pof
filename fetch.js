@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const sanityClient = require('@sanity/client');
 const fs = require('fs');
 
